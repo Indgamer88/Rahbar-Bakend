@@ -1,0 +1,9 @@
+{
+  "name": "rahbar-api",
+  "version": "1.0.0",
+  "main": "api/chat.js",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "cors": "^2.8.5"
+  }
+}
